@@ -1,0 +1,23 @@
+.body {
+  background-color: rgb(196, 227, 255);
+  width: 100%;
+  height: auto;
+  background-image: url("/public/background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  padding: 30px 0;
+}
+.card-body {
+  background-color: rgb(255, 255, 255);
+  width: 40%;
+  border: 10px solid rgb(147, 165, 255);
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.profile {
+  height: 100px;
+  width: auto;
+}
